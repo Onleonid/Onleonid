@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Onleonid
 - 👀 I’m interested in new AI project
-- 🌱 I’m currently learning C++
+- 🔥 I’m know C++
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on AI project
 - 📫 To reach me @onleonid
 - ⚡ Fun fact: this is participation in hackathons
